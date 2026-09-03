@@ -28,7 +28,7 @@ I think in systems, I care deeply about UX, and I build until the answer works. 
 
 * **Winner & Honors Graduate / Program Lead** - AI-Native Software Engineer Accelerator (2026)
 
-* **Global Hackathon Winner** - Built a multimodal visual analysis app in a 4-hour sprint.
+* **Global Hackathon** - Built a multimodal visual analysis app in a 4-hour sprint.
 
 * Architected zero-downtime, 5-minute automated CI/CD pipelines with live schema-drift detection.
 
