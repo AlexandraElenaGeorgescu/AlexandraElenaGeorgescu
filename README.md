@@ -20,6 +20,7 @@ I think in systems, I care deeply about UX, and I build until the answer works. 
 | [Monster OOP Academy](https://github.com/AlexandraElenaGeorgescu/Learn-with-Monsters) | A playful game for learning OOP with monsters, swords and potions. | React, TypeScript |
 | [StoryVerse](https://github.com/AlexandraElenaGeorgescu/Licenta2024) | My bachelor's thesis: a platform for writing, sharing and reviewing stories. | Angular, .NET, MongoDB |
 | [Cabana Chaos Manager](https://github.com/AlexandraElenaGeorgescu/cabana_haha) | Organizing a cabin trip with friends, with voting and a lot of chaos. | React, Supabase, Gemini |
+| [reflect](https://github.com/AlexandraElenaGeorgescu/reflect) | A journaling companion that asks before it interprets, with a crisis screen and an output guard (not therapy). Tests included. | Python, LLM safety guardrails |
 
 ## 🛠️ Tech stack
 
