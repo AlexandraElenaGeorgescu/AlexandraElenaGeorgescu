@@ -2,42 +2,44 @@
 
 I start with questions. *"What if a field worker could just talk and the project updates itself?"* became a working hardware-to-cloud pipeline. *"Why are we still deploying by hand?"* became a CI/CD system that deploys in 5 minutes.
 
-I think in systems, I care deeply about UX, and I build until the answer works. I want to be somewhere my questions get to become products.
+I think in systems, I care deeply about UX, and I build until the answer works. The part I care about most is the space between the model and the human: how an agent should talk, confirm and hand control back.
 
-## 🚀 What I'm currently working on
+## 🚀 What I'm working on
 
-* **Building AI-Native Architectures:** Designing and deploying production Model Context Protocol (MCP) servers to expose document processing and dynamic JSON actions directly to AI agents.
+* **AI-native architectures:** production Model Context Protocol (MCP) servers that let AI agents process documents directly, and a hybrid LLM → classifier → similarity-search matching pipeline that became my team's standard.
+* **Teaching:** co-creating *"Interactive Interfaces using Agentic AI"* at Transilvania University of Brașov, and leading an internal AI-Native Engineer Accelerator.
+* **Hardware-to-cloud voice AI:** voice-to-action pipelines on ESP32-S3 (C++), faster-whisper and Ollama, with privacy by architecture.
+* **Community:** Creative Technology Manager at [AI House Brașov](https://www.linkedin.com/company/ai-house-brasov/), a monthly meetup where people learn AI by building with it.
 
-* **Teaching the Next Generation:** Co-creating and acting as an Assistant Teacher for a new university course: *"Interfețe interactive folosind Agentic AI"* (Interactive Interfaces using Agentic AI) at the University of Brașov.
+## 🧩 Projects you can explore here
 
-* **Hardware-to-Cloud AI Pipelines:** Experimenting with local voice-to-action pipelines using custom C++ firmware on ESP32-S3 devices, faster-whisper, and Ollama to ensure privacy by architecture.
+| Project | What it is | Stack |
+|---|---|---|
+| [Architect.AI](https://github.com/AlexandraElenaGeorgescu/Architect-With-AI) | Agentic assistant that turns requirements into ERDs, API docs and code prototypes (5-layer RAG + knowledge graph). Accelerator capstone. | Python, RAG, Ollama |
+| [AI Career Architect](https://github.com/AlexandraElenaGeorgescu/Skill-Gap-In-Your-CV-) | Upload a CV, get a skill-gap analysis and a learning blueprint. | Streamlit, Gemini |
+| [Monster OOP Academy](https://github.com/AlexandraElenaGeorgescu/Learn-with-Monsters) | A playful game for learning OOP with monsters, swords and potions. | React, TypeScript |
+| [StoryVerse](https://github.com/AlexandraElenaGeorgescu/Licenta2024) | My bachelor's thesis: a platform for writing, sharing and reviewing stories. | Angular, .NET, MongoDB |
+| [Cabana Chaos Manager](https://github.com/AlexandraElenaGeorgescu/cabana_haha) | Organizing a cabin trip with friends, with voting and a lot of chaos. | React, Supabase, Gemini |
 
-* **Securing Infrastructure:** Driving massive FIPS 140-2/3 compliance remediations, decommissioning legacy monolithic infrastructure, and enforcing strict security models across cloud environments.
+## 🛠️ Tech stack
 
-## 🛠️ Tech Stack
+* **Languages:** Python, C#, TypeScript, SQL, C++ (embedded)
+* **Frontend:** React 19 + Vite, Angular, Streamlit
+* **Backend & data:** .NET, FastAPI, Snowflake, MongoDB, SQLite
+* **AI & infra:** agents & MCP, RAG, local inference (Whisper, Ollama), Azure/AWS, CI/CD, enterprise security (FIPS, OAuth2 OBO)
 
-* **Languages:** Python, C#, SQL, TypeScript, C++ (Embedded)
+## 🏆 Highlights
 
-* **Frontend:** React 19+ Vite, Angular, Streamlit
+* **Winner & honors graduate, now Program Lead** – AI-Native Software Engineer Accelerator (2026)
+* **Speaker** – AI House Brașov #2 and #3 (live MVP build in 60 minutes)
+* **Hackathons** – multimodal visual-analysis app in 4 hours (Global AI Summit, 2026); BOM intelligence agent (2025); Stressed Duck, a physical AI debugging buddy (2026)
+* CI/CD with live schema-drift detection: 5-minute deploys behind 700+ automated tests
 
-* **Backend & Data:** .NET Core, FastAPI, Snowflake, MongoDB, SQLite
-
-* **AI & Infra:** Agentic Orchestration (MCP, RAG), Local Inference (Whisper, Ollama), Azure/AWS, CI/CD, Enterprise Security (FIPS, OBO flows)
-
-## 🏆 Recent Highlights
-
-* **Winner & Honors Graduate / Program Lead** - AI-Native Software Engineer Accelerator (2026)
-
-* **Global Hackathon** - Built a multimodal visual analysis app in a 4-hour sprint.
-
-* Architected zero-downtime, 5-minute automated CI/CD pipelines with live schema-drift detection.
-
-## 📫 Let's Connect
+## 📫 Let's connect
 
 * **LinkedIn:** [Alexandra Elena Georgescu](https://www.linkedin.com/in/georgescu-alexandra-elena/)
-
 * **Email:** alestef81@gmail.com
 
-* **GitHub (Professional):** [Link to your professional GitHub here](#)
-
 *"Security isn't just a checkbox, and AI is best when the user stays in control."*
+
+*Human-led. AI-amplified.*
